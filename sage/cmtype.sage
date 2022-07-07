@@ -3,7 +3,7 @@
     Author: Bogdan Adrian Dina
     Email: bogdan.dina@mail.huji.ac.il
     Institution: Einstein Institute of Mathematics, Jerusalem, Israel
-    Description: Basic functionality for the computation of CM fields, see (To add...)
+    Description: Basic functionality for the computation of CM fields, see (ToDo: Add definitions and further descriptions...)
     Prerequisites: (To add ...)
     Citing this code: Please cite the following leioned if this code has been helpful in your research: 
     Bogdan Adrian Dina and Sorina Ionica, Genus 3 hyperelliptic curves with CM via Shimura reciprocity, The Open Book Series 4 (2020), Fourteenth Algorithmic Number Theory Symposium, https://doi.org/10.2140/obs.2020.4.161
